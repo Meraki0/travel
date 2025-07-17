@@ -83,3 +83,5 @@ if __name__ == "__main__":
 
     print("\n시각화 중...")
     plot_emotion_words(topic_emotion)
+    
+    #ddd

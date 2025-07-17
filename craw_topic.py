@@ -1,3 +1,4 @@
+#주제별 감정 단어 크롤링
 import praw
 from langdetect import detect
 import re
